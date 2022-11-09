@@ -1,0 +1,76 @@
+2022/11/07 19:54:19 [error] 56732#54640: *1 CreateFile() "c:\nginx-1.23.2\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/11/07 20:04:13 [notice] 68940#55580: signal process started
+2022/11/07 20:04:27 [notice] 76644#68604: signal process started
+2022/11/07 20:04:27 [error] 76644#68604: CreateFile() "C:\workspace\Coderhouse\nginx-1.23.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/11/07 20:05:05 [notice] 76064#52316: signal process started
+2022/11/07 20:05:09 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:05:10 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:05:10 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:05:11 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:05:11 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:05:11 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:05:11 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:05:12 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:05:12 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:05:12 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:05:12 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:05:12 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:07 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:08 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:08 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:08 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:08 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:09 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:09 [error] 68996#54336: *1 "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:20 [notice] 66200#57196: signal process started
+2022/11/07 20:06:34 [error] 79312#67032: *2 directory index of "./nginx/" is forbidden, client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:35 [error] 79312#67032: *2 directory index of "./nginx/" is forbidden, client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:36 [error] 79312#67032: *2 directory index of "./nginx/" is forbidden, client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:36 [error] 79312#67032: *2 directory index of "./nginx/" is forbidden, client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:36 [error] 79312#67032: *2 directory index of "./nginx/" is forbidden, client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:36 [error] 79312#67032: *2 directory index of "./nginx/" is forbidden, client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:36 [error] 79312#67032: *2 directory index of "./nginx/" is forbidden, client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:37 [error] 79312#67032: *2 directory index of "./nginx/" is forbidden, client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:37 [error] 79312#67032: *2 directory index of "./nginx/" is forbidden, client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:06:37 [error] 79312#67032: *2 directory index of "./nginx/" is forbidden, client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:07:56 [notice] 69908#62176: signal process started
+2022/11/07 20:08:53 [notice] 67280#73408: signal process started
+2022/11/07 20:09:40 [notice] 78184#74564: signal process started
+2022/11/07 20:15:20 [notice] 63192#7808: signal process started
+2022/11/07 20:19:23 [notice] 50948#62312: signal process started
+2022/11/07 20:29:14 [error] 76304#66700: *3 directory index of "./NginxNode/public/" is forbidden, client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:29:14 [error] 76304#66700: *3 CreateFile() "./NginxNode/public/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: nginx_node, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/11/07 20:30:44 [notice] 79800#40724: signal process started
+2022/11/07 20:31:14 [notice] 40060#77040: signal process started
+2022/11/07 20:31:20 [error] 76248#26856: *5 CreateFile() "c:\workspace\Coderhouse\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:70", referrer: "http://localhost:70/"
+2022/11/07 20:31:41 [notice] 78348#78748: signal process started
+2022/11/07 20:33:06 [notice] 44036#55144: signal process started
+2022/11/07 20:33:10 [error] 76344#75504: *7 CreateFile() "c:\workspace\Coderhouse\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost.", referrer: "http://localhost./"
+2022/11/07 20:34:21 [notice] 73348#79368: signal process started
+2022/11/07 20:35:33 [notice] 72388#79384: signal process started
+2022/11/07 20:37:37 [notice] 70948#54488: signal process started
+2022/11/07 20:38:58 [error] 27780#78704: *9 directory index of "./NginxNode/public/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:39:16 [error] 27780#78704: *9 directory index of "./NginxNode/public/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:39:16 [error] 27780#78704: *9 directory index of "./NginxNode/public/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:39:17 [error] 27780#78704: *10 directory index of "./NginxNode/public/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:39:17 [error] 27780#78704: *10 CreateFile() "./NginxNode/public/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/11/07 20:39:20 [notice] 72896#78748: signal process started
+2022/11/07 20:39:55 [notice] 38104#78064: signal process started
+2022/11/07 20:39:57 [error] 70948#66208: *12 directory index of "./NginxNode/public/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2022/11/07 20:40:03 [error] 70948#66208: *12 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /datos/ HTTP/1.1", upstream: "http://127.0.0.1:8082/datos/", host: "localhost"
+2022/11/07 20:40:05 [error] 70948#66208: *12 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /datos/ HTTP/1.1", upstream: "http://127.0.0.1:8081/datos/", host: "localhost"
+2022/11/07 20:40:33 [notice] 75004#77204: signal process started
+2022/11/07 20:40:50 [notice] 51780#44628: signal process started
+2022/11/07 20:41:10 [notice] 68988#79676: signal process started
+2022/11/07 20:46:09 [notice] 68240#79248: signal process started
+2022/11/07 20:46:35 [notice] 74380#76996: signal process started
+2022/11/07 20:46:44 [notice] 78212#59496: signal process started
+2022/11/08 16:08:57 [notice] 82548#82660: signal process started
+2022/11/08 16:27:04 [notice] 79568#80288: signal process started
+2022/11/08 16:49:13 [notice] 57276#60900: signal process started
+2022/11/08 17:18:50 [notice] 83780#72424: signal process started
+2022/11/08 17:20:27 [notice] 66120#50228: signal process started
+2022/11/08 17:26:25 [error] 51320#78192: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: nginx_node, request: "GET /datos/ HTTP/1.1", upstream: "http://127.0.0.1:8082/datos/", host: "localhost"
+2022/11/08 17:26:27 [error] 51320#78192: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: nginx_node, request: "GET /datos/ HTTP/1.1", upstream: "http://127.0.0.1:8081/datos/", host: "localhost"
+2022/11/08 17:26:27 [error] 51320#78192: *1 CreateFile() "c:\workspace\Coderhouse\nginx-1.23.2/../NginxNode/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/datos/"
+2022/11/08 17:42:49 [notice] 67500#52312: signal process started
